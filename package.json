@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-cached-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy Peasy Cached Image for React Native.",
   "keywords": [
     "react-native",
@@ -15,7 +15,7 @@
   ],
   "homepage": "https://www.freakycoder.com",
   "bugs": "https://github.com/WrathChaos/react-native-easy-cached-image/issues",
-  "main": "./lib/src/components/FloatingActionButton.js",
+  "main": "./lib/src/components/CachedImage.js",
   "repository": "git@github.com:WrathChaos/react-native-easy-cached-image.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
