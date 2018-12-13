@@ -10,7 +10,8 @@
     "crypto-js": "^3.1.9-1",
     "expo": "^31.0.6",
     "react": "^16.5.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-easy-cached-image": "0.0.1"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"

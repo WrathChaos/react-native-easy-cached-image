@@ -1,6 +1,6 @@
 import React from 'react';
-import { ScrollView, StyleSheet, Platform, View } from 'react-native';
-import CachedImage from '../lib/src/components/CachedImage';
+import { ScrollView, Platform, View } from 'react-native';
+import CachedImage from 'react-native-easy-cached-image';
 
 
 const styles = {
