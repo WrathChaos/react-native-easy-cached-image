@@ -32,14 +32,14 @@ npm i react-native-easy-cached-image
 
 - I shared the example project to check what it is:
   [check the code](examples/App.js), and yes! :) all of the images, screenshots are directly taken
-  from the this example. Of course, you can simply clone the project and run the example on your own environment.
+  from this example. Of course, you can simply clone the project and run the example on your own environment.
 
 ### Configuration - Props
 
-| Property                | Type   | Default   | Description                                                                     |
-| ----------------------- | ------ | --------- | ------------------------------------------------------------------------------- |
-| source                  | object | undefined | use this to implement your own source of image, it could be URI or local image. |
-| any prop what Image get | any    | non       | it can use any prop what Image component use                                    |
+| Property    | Type   | Default   | Description                                                                     |
+| ----------- | ------ | --------- | ------------------------------------------------------------------------------- |
+| source      | object | undefined | use this to implement your own source of image, it could be URI or local image. |
+| Image props | any    | non       | it can use any prop what Image component use                                    |
 
 ## Author
 
