@@ -28,6 +28,16 @@ npm i react-native-easy-cached-image
    source={{ uri: "your-uri" }} />
 ```
 
+
+## Peer Dependencies
+
+##### IMPORTANT! You need install them.
+
+```
+    "react": ">= 16.x",
+    "react-native": ">= 0.55.x"
+```
+
 ### Example Application
 
 - I shared the example project to check what it is:
