@@ -2,9 +2,13 @@
 
 Easy Peasy Cached Image for React Native with Expo.
 
+
 [![npm version](https://img.shields.io/npm/v/react-native-easy-cached-image.svg)](https://www.npmjs.com/package/react-native-easy-cached-image)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-easy-cached-image.svg)](https://www.npmjs.com/package/react-native-easy-cached-image)
+[![npm](https://img.shields.io/npm/dt/react-native-easy-cached-image.svg)](https://www.npmjs.com/package/react-native-easy-cached-image)
+![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 
 <p align="center">
 <img alt="React Native Easy Cached Image" src="https://github.com/WrathChaos/react-native-easy-cached-image/blob/master/assets/Screenshots/example.png" width="49.7%"/>
