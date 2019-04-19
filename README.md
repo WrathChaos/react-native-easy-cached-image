@@ -1,6 +1,6 @@
 # <img alt="React Native Easy Cached Image" src="https://github.com/WrathChaos/react-native-easy-cached-image/blob/master/assets/Screenshots/logo.png" width="1050"/>
 
-Easy Peasy Cached Image for React Native.
+Easy Peasy Cached Image for React Native with Expo.
 
 [![npm version](https://img.shields.io/npm/v/react-native-easy-cached-image.svg)](https://www.npmjs.com/package/react-native-easy-cached-image)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-easy-cached-image.svg)](https://www.npmjs.com/package/react-native-easy-cached-image)
@@ -10,7 +10,11 @@ Easy Peasy Cached Image for React Native.
 <img alt="React Native Easy Cached Image" src="https://github.com/WrathChaos/react-native-easy-cached-image/blob/master/assets/Screenshots/example.png" width="49.7%"/>
 </p>
 
-## Installation
+# Important Warning :
+
+#### This library only works with Expo! Not working with Pure React Native.
+
+## Installation for Expo
 
 Add the dependency:
 
@@ -28,14 +32,15 @@ npm i react-native-easy-cached-image
    source={{ uri: "your-uri" }} />
 ```
 
-
 ## Peer Dependencies
 
-##### IMPORTANT! You need install them.
+##### IMPORTANT! You need install them. This is an EXPO based library, you cannot use it without Expo for now.
 
 ```
-    "react": ">= 16.x",
-    "react-native": ">= 0.55.x"
+"expo": ">= 27.x",
+"react": ">= 16.x",
+"crypto-js": ">= 3.x.x",
+"react-native": ">= 0.55.x"
 ```
 
 ### Example Application
