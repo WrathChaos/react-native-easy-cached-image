@@ -8,16 +8,16 @@
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1",
-    "expo": "^31.0.6",
+    "expo": "^34.0.4",
     "react": "^16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-easy-cached-image": "0.0.3",
+    "react-native-easy-cached-image": "0.0.7",
     "react-native-easy-grid": "^0.2.0",
     "react-native-typography": "^1.4.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^5.0.0",
-    "schedule": "^0.4.0"
+    "schedule": "^0.5.0"
   },
   "private": true
 }
